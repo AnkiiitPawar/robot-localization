@@ -7,7 +7,7 @@ name = "robot-localization"
 version = "0.1.0"
 description = "EKF, UKF and particle-filter robot localisation with consistency checks"
 authors = [{ name = "Ankit Pawar" }]
-license = { text = "MIT" }
+license = { text = "Proprietary. All rights reserved; see LICENSE." }
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.24", "scipy>=1.10"]
 
